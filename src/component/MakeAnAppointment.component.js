@@ -55,6 +55,10 @@ export default class MakeAnAppointment extends Component {
         dataIndex: "name",
       },
       {
+        title: "Giới tính",
+        dataIndex: "gender",
+      },
+      {
         title: "Tuổi",
         dataIndex: "age",
       },
